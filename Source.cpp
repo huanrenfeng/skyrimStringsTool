@@ -637,6 +637,7 @@ void fixF(const char* fn) {
 
 	}while (++index < sf->count);
 	
+	free(sf->data);
 	sf->data = newdata;
 	
 	
