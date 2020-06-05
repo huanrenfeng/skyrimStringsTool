@@ -9,7 +9,7 @@ Usage:
 
 
 -f filename
-     read a strings file and generate a totrans.txt. You edit totrans.txt and generate a transed.txt for the next step. 
+     read a strings file and generate a totrans.txt. You edit totrans.txt and generate a transed.txt by yourself( you can copy the totrans.txt to transed.txt and edit the file) for the next step. 
      
      contents of the generated file is like this:
      
