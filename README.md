@@ -1,5 +1,6 @@
 # skyrimStringsTool
 
+the tool works on strings,ilstrings and dlstrings file format.
 
 Usage:
 
