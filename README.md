@@ -2,8 +2,9 @@
 
 
 Usage:
-skyrimStringsTool -f modname.strings
-skyrimStringsTool -f modname.strings -swap
+
+    skyrimStringsTool -f modname.strings
+    skyrimStringsTool -f modname.strings -swap
 
 
 
